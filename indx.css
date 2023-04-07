@@ -724,3 +724,185 @@ body {
     margin-top: 34px;
 }
 
+.oqdiv7 {
+    background: #FFFFFF;
+    box-shadow: 0px 18px 45px -10px rgba(0, 0, 0, 0.349);
+    border-radius: 10px;
+    width: 100%;
+    padding: 50px 50px 30px 45px;
+    color: #131313;
+}
+
+.oqdiv7:hover {
+    background: #7421B0;
+    color: #FFFFFF;
+    transition: 1s;
+}
+
+.sarlavha_kub {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 160%;
+    margin-top: 40px;
+}
+
+.img1 {
+    width: 80px;
+    height: 80px;
+}
+
+.t {
+    margin-bottom: 35px;
+}
+
+.section8 {
+    background: linear-gradient(123.35deg, rgba(235, 243, 208, 0.05) 0%, rgba(235, 243, 208, 0) 18.4%), radial-gradient(29.9% 70.94% at 44.25% 86.96%, rgba(220, 141, 220, 0.05) 0%, rgba(220, 141, 220, 0) 100%), radial-gradient(33.83% 53.57% at 35.87% 100%, rgba(220, 141, 220, 0.05) 0%, rgba(220, 141, 220, 0) 100%), radial-gradient(42.66% 49.72% at 45.56% 44.65%, rgba(203, 173, 235, 0.05) 0%, rgba(194, 166, 241, 0) 100%), linear-gradient(134.59deg, rgba(205, 249, 232, 0.05) 20.63%, rgba(205, 249, 232, 0) 47.84%), linear-gradient(216.44deg, rgba(192, 169, 240, 0) -16.52%, rgba(192, 169, 240, 0.05) -1.04%, rgba(192, 169, 240, 0) 16.99%), linear-gradient(128.53deg, rgba(192, 169, 240, 0) 28.63%, rgba(192, 169, 240, 0.05) 38.5%, rgba(192, 169, 240, 0) 50.26%), radial-gradient(40.75% 97.37% at 90.75% 40.15%, rgba(255, 253, 177, 0.05) 0%, rgba(254, 228, 191, 0.05) 34.46%, rgba(240, 189, 208, 0.05) 69.5%, rgba(255, 129, 38, 0) 100%), rgba(194, 166, 241, 0.05);
+    backdrop-filter: blur(20px);
+    margin-top: 200px;
+    padding-bottom: 170px;
+}
+
+.sar1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57px;
+    color: #131313;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.son {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #7421B0;
+    text-align: start;
+
+}
+
+.taxtsar {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 160%;
+    color: #131313;
+}
+
+.text10 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 180%;
+    color: #828282;
+}
+
+.uzun_shaf_div {
+    background: rgba(196, 196, 196, 0.1);
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(20px);
+    border-radius: 16px;
+    display: flex;
+    gap: 150px;
+    padding: 51px;
+    margin-top: 60px;
+}
+
+.divtext1 {
+    justify-content: center;
+}
+
+.uzun_shafov_div2 {
+    background: rgba(196, 196, 196, 0.1);
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(20px);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    gap: 140px;
+    padding: 40px 51px;
+    margin-top: 40px;
+}
+
+.son2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #7421B0;
+
+}
+
+.textsar2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 160%;
+    color: #131313;
+}
+
+.shafov2div {
+    background: linear-gradient(123.35deg, rgba(235, 243, 208, 0.05) 0%, rgba(235, 243, 208, 0.304) 18.4%), radial-gradient(29.9% 70.94% at 44.25% 86.96%, rgba(220, 141, 220, 0.274) 0%, rgba(220, 141, 220, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(33.83% 53.57% at 35.87% 100%, rgba(220, 141, 220, 0.203) 0%, rgba(220, 141, 220, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(42.66% 49.72% at 45.56% 44.65%, rgba(203, 173, 235, 0.249) 0%, rgba(194, 166, 241, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, linear-gradient(134.59deg, rgba(205, 249, 232, 0.05) 20.63%, rgba(205, 249, 232, 0.231) 47.84%), linear-gradient(216.44deg, rgba(192, 169, 240, 0) -16.52%, rgba(191, 169, 240, 0.29) -1.04%, rgba(191, 169, 240, 0.144) 16.99%), linear-gradient(128.53deg, rgba(191, 169, 240, 0.208) 28.63%, rgba(191, 169, 240, 0.235) 38.5%, rgba(191, 169, 240, 0.489) 50.26%), radial-gradient(40.75% 97.37% at 90.75% 40.15%, rgba(255, 252, 177, 0.683) 0%, rgba(254, 228, 191, 0.05) 34.46%, rgba(240, 189, 208, 0.05) 69.5%, rgba(255, 129, 38, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, rgba(194, 166, 241, 0.05);
+    border: 3px solid rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(-10px);
+    border-radius: 10px;
+    width: 450px;
+    height: 214px;
+    margin-top: 157px;
+    padding: 60px;
+}
+
+
+.save2{
+    width: 114px;
+    height: 114px;
+}
+
+.save2_div {
+    position: relative;
+    display: flex;
+    justify-content: end;
+    margin-top: 58px;
+}
+
+.section9 {
+    margin-top: 200px;
+    padding-bottom: 220px;
+}
+
+.katta_div_3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text11 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 140%;
+    color: #131313;
+}
+
+.btn_end {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #FFFFFF;
+    background: linear-gradient(97.02deg, #7421B0 28.9%, #D08EFF 139.98%);
+    border-radius: 5px;
+    border: none;
+    padding: 20px 40px;
+    margin-top: 60px;
+}
